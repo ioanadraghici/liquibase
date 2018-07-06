@@ -1,6 +1,6 @@
 !!! update project.version in liquibase-core/pom.xml to the new version without snapshot!!!
 release version in jira
-update changelog.txt
+update changelog.txt55
 
 Manually run branch in the "Release" buildserver project
 
